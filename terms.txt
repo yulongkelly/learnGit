@@ -1,4 +1,4 @@
 git log: display all the commend
-git checkout: delete a commit(it also automataly add the new file) 
+git checkout: creat a new commit which discard the latest commit(the last commit still exist!) 
 ex: git checkout 9f955d85359fc8e4504d7220f13fad34f8f2c62b ./recipes/tofu
 
