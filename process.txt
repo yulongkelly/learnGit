@@ -1,1 +1,2 @@
-git init(it's time to save)->git add->git commit
+beginning: git init(it's time to save)->git add->git commit
+delete a commit: git checkout->git commit
