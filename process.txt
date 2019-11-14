@@ -1,0 +1,1 @@
+git init(it's time to save)->git add->git commit
