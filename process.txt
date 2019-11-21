@@ -8,3 +8,11 @@ beginning: git init(it's time to save)->git add->git commit
 
 
 delete a commit: git checkout->git commit
+
+
+
+Log into github: git remote add origin https://github.com/yourUserName/yourRepoName.git->
+git push -u origin master
+
+note: if "fatal: remote origin already exists." just put "git remote set-url origin https://github.com/yourUserName/yourRepoName.git"(change the remote name)
+
