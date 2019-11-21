@@ -1,0 +1,1 @@
+1. if i want to push something to an non-empty repository, it's different from push to empty repository
